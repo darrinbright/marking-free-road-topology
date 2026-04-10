@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+torch-geometric
+transformers>=4.30.0
+accelerate
+opencv-python-headless
+scikit-image
+numpy
+networkx
+scipy
+tqdm
+matplotlib

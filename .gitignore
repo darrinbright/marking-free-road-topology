@@ -1,0 +1,36 @@
+# Local Data and Archives (Do Not Push)
+data/
+archive/
+outputs/
+idd-segmentation/
+idd_topo_150/
+idd_topo_150_overlays/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+*.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+
+# Weights and Models
+checkpoints/
+models/
+*.pth
+*.pt
+*.ckpt
+*.weights
+*.h5
+*.onnx
+
+# Documents
+*.pdf

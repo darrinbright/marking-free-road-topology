@@ -1,0 +1,10 @@
+# HT-GNN hyperparameters
+bev_size: 256
+hidden_dim: 128
+lr_phase1: 1e-4
+lr_phase2: 3e-4
+epochs_phase1: 30
+epochs_phase2: 50
+train_split: 0.7
+val_split: 0.2
+test_split: 0.1
